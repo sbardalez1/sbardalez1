@@ -1,10 +1,8 @@
-Full-Stack Web Developer
-------------------------
-
-*   🌍  I'm based in Florida
-*   ✉️  You can contact me at [nataliabardale@gmail.com](mailto:nataliabardale@gmail.com)
-*   🧠  I'm learning HTML, CSS, JavaScript, React, Redux, SQL, and API
-*   🤝  I'm open to collaborating on available for work and collaborations
+*   👋 Hi, I’m Sofia.
+*   📫  You can contact me at [nataliabardale@gmail.com](mailto:nataliabardale@gmail.com)
+*   🧠  I'm learning HTML, CSS, JavaScript, React, Redux, SQL, and API.
+*   🤝  I'm open to collaborating on available for work and collaborations.
+*   💞️ I’m looking forward to expanding my programming knowledge and learning different technologies.
 
 ### Skills
 
