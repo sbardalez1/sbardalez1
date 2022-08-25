@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sofia Bardalez======================================================================================================================================Full-Stack Web Developer------------------------* 🌍  I'm based in Florida* ✉️  You can contact me at [nataliabardale@gmail.com](mailto:nataliabardale@gmail.com)* 🧠  I'm learning HTML, CSS, JavaScript, React, Redux, SQL, and API* 🤝  I'm open to collaborating on available for work and collaborations
+Full-Stack Web Developer
+------------------------
+
+*   🌍  I'm based in Florida
+*   ✉️  You can contact me at [nataliabardale@gmail.com](mailto:nataliabardale@gmail.com)
+*   🧠  I'm learning HTML, CSS, JavaScript, React, Redux, SQL, and API
+*   🤝  I'm open to collaborating on available for work and collaborations
 
 ### Skills
 
