@@ -1,5 +1,5 @@
 *   👋 Hi, I’m Sofia.
-*   📫  You can contact me at [nataliabardale@gmail.com](mailto:nataliabardale@gmail.com) or <a href="https://www.linkedin.com/in/sofia-b-49186893">LinkedIn Profile </a>
+*   📫  You can contact me at [nataliabardale@gmail.com](mailto:nataliabardale@gmail.com) 
 *   🌱  I'm learning HTML, CSS, JavaScript, React, Redux, SQL, and API.
 *   🤝  I'm open to collaborating on available for work and collaborations.
 *   💞️ I’m looking forward to expanding my programming knowledge and learning different technologies.
